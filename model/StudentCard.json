@@ -3,7 +3,7 @@
         "prop": "displayName"
     },
     {
-        "prop": "id"
+        "prop": "id",
         "action": "popup"
     },
     {
