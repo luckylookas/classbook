@@ -1,11 +1,4 @@
-[
-    {
-        "prop": "displayName"
-
-    },
-    {
-        "prop": "id"
-    },
+[{"prop": "displayName"},{"prop": "id"},
     {
         "prop": "grade_protection",
         "icons": {
