@@ -4,6 +4,7 @@
     },
     {
         "prop": "id"
+        "action": "popup"
     },
     {
         "prop": "grade_protection",
