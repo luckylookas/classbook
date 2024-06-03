@@ -1,10 +1,10 @@
 [
     {
-        "prop": "displayName",
+        "prop": "displayName"
 
     },
     {
-        "prop": "id",
+        "prop": "id"
     },
     {
         "prop": "grade_protection",
