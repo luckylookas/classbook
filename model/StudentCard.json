@@ -1,7 +1,10 @@
 [
-    {"prop": "displayName"},
-    {"prop": "id"},
-    {"prop": "shish"},
+    {
+        "prop": "displayName"
+    },
+    {
+        "prop": "id"
+    },
     {
         "prop": "grade_protection",
         "icons": {
