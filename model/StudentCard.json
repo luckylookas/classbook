@@ -1,0 +1,16 @@
+[
+    {
+        "prop": "displayName",
+
+    },
+    {
+        "prop": "id",
+    },
+    {
+        "prop": "grade_protection",
+        "icons": {
+            "partial": "grade_protection_partial",
+            "full": "grade_protection_full"
+        }
+    }
+]
