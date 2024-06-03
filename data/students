@@ -1,0 +1,12 @@
+[
+    {
+        "id": "uuid-lukas",
+        "displayName": "Lukas Wastl",
+        "grade_protection": "partial"
+    },
+    {
+        "id": "uuid-michi",
+        "displayName": "Michael Wusel",
+        "grade_protection": "full"
+    }
+]
