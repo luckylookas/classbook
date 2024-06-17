@@ -9,9 +9,9 @@
     {
         "prop": "absent",
         "icons": {
-            "absent": "student_absent",
-            "present": "student_present",
-            "undefined": "student_present"
+            "absent": "reddot",
+            "present": "greendot",
+            "undefined": "greendot"
         }
     },
     {
