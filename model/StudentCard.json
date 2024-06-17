@@ -9,9 +9,8 @@
     {
         "prop": "absent",
         "icons": {
-            "absent": "reddot",
-            "present": "greendot",
-            "undefined": "greendot"
+            "true": "reddot",
+            "false": "greendot",
         }
     },
     {
