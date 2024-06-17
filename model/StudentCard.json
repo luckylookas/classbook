@@ -11,7 +11,7 @@
         "action": "setAbsent"
         "icons": {
             "true": "reddot",
-            "false": "greendot",
+            "false": "greendot"
         }
     },
     {
