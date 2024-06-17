@@ -2,11 +2,13 @@
     {
         "id": "uuid-lukas",
         "displayName": "Lukas Wastl",
-        "grade_protection": "partial"
+        "grade_protection": "partial",
+        "absent": false
     },
     {
         "id": "uuid-michi",
         "displayName": "Michael Wusel",
-        "grade_protection": "full"
+        "grade_protection": "full",
+        "absent": true
     }
 ]
