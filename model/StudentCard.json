@@ -8,7 +8,7 @@
     },
     {
         "prop": "absent",
-        "action": "setAbsent"
+        "action": "setAbsent",
         "icons": {
             "true": "reddot",
             "false": "greendot"
