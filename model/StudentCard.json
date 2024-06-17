@@ -7,6 +7,14 @@
         "action": "popup"
     },
     {
+        "prop": "absent",
+        "icons": {
+            "absent": "student_absent",
+            "present": "student_present",
+            "undefined": "student_present"
+        }
+    },
+    {
         "prop": "grade_protection",
         "icons": {
             "partial": "grade_protection_partial",
